@@ -624,6 +624,9 @@ header label{
     html{
         font-size: 50%;
     }
+    header .navbar{
+        width: 100%;
+    }
     .about .column .bouttons a{
         width: 100%;
         text-align: center;
